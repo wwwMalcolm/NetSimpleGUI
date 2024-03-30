@@ -7,4 +7,4 @@ This program interacts with the contract address: 0xd8ff1F4C7F1cfE21A66B7361D5aF
 Currently, the program is set to interact on the Arbitrum Sepolia Network.
 
 ## Screenshots
-![Load From KeyStore](screenshots/ui.JPG)
+![Application User Interface](screenshots/ui.JPG)
